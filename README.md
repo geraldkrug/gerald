@@ -1,4 +1,4 @@
-# sidechain-smart-paper-money-vouchers
+# sidechain-smart-paper-money
 bitcoin rfid crypto ledger application
 
 ## examples 
