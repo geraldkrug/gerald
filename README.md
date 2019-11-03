@@ -10,11 +10,13 @@ http://geraldkrug.mypressonline.com/cgi/MYDIR/lib/Image/appmine.cgi?cmd=mine
 Bitcoin secured Promissory Note 
 
 Borrower:	Enter Borrower's Full Name
+Bitcoin
 Enter Borrower's Street Address
 Enter Borrowers City, State and Zip Code
 (“Borrower”)
 
 Lender:	Enter Lender's Full Name
+
 		Enter Lender's Street Address
 		Enter Lender's City, State and Zip Code
 		(“Lender”)
