@@ -10,12 +10,13 @@ http://geraldkrug.mypressonline.com/cgi/MYDIR/lib/Image/appmine.cgi?cmd=mine
 Bitcoin secured Promissory Note 
 
 Borrower:	Enter Borrower's Full Name
-Bitcoin
+"Bitcoin" 
 Enter Borrower's Street Address
 Enter Borrowers City, State and Zip Code
 (“Borrower”)
 
 Lender:	Enter Lender's Full Name
+"Bitcoin Purchaser" 
 
 		Enter Lender's Street Address
 		Enter Lender's City, State and Zip Code
@@ -52,12 +53,12 @@ The validity, construction and performance of this Promissory Note will be gover
 
 The parties hereby indicate by their signatures below that they have read and agree with the terms and conditions of this agreement in its entirety.
 
-Borrower Signature:	______________________________________
+Borrower Signature:	_____________Bitcoin_________________________
 				Enter Borrower Full Name
 				
 Lender Signature: 	______________________________________
 				Enter Lender Full Name
-Date: 7/23/20077/23/2007	
+Date: 7/23/2007 7/23/2007	
 Certificate of Acknowledgment of Notary Public
 
 State of _______________________________	)
